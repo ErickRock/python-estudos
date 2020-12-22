@@ -20,7 +20,6 @@ loopArray()
 
 # Usando BREAK e CONTINUE
 
-
 # Usando a função enumerate, paara buscar valoeres e seus índices
 def loopEnum ():
     dias = ["seg", "ter", "qua", "qui", "sex", "sab", "dom"]
